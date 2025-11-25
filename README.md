@@ -4,15 +4,15 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for managing a 
 
 📝 Table of Contents
 
-Overview
-
-Features
-
-Tech Stack
-
-Prerequisites
-
-Installation and Setup
+    Overview
+    
+    Features
+    
+    Tech Stack
+    
+    Prerequisites
+    
+    Installation and Setup
 
 Scripts
 
@@ -121,3 +121,4 @@ Frontend (/frontend/package.json)
 Script	Description
 dev	Runs React app with hot reload
 build	Builds the production-ready frontend
+
